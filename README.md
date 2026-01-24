@@ -1,5 +1,6 @@
 # Laravel React Starter Kit
 
+
 Opinionated Laravel + Inertia/React starter with Vite and FrankenPHP-ready defaults.
 
 ## Required environment
